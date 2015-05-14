@@ -17,3 +17,5 @@ What rights do you / should you have in terms of work, income and participating 
 * ?
 
 ___If you disagree with any of these or would like more added, create a pull request or open an issue and start a discussion about how you see work, money and participation.___
+
+_This project is part of the >ZERO campaign [hackaye.com/event/zero](http://hackaye.com/event/zero/) against "zero culture" [#betterthanzero](https://twitter.com/search?q=%23betterthanzero)._
